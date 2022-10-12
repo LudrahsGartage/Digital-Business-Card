@@ -13,11 +13,11 @@ export default function TextContentBox () {
         </button>
         <div id='About'>
             <h1 className='Text-Header'>About</h1>
-            <p className='Text-Bodies'>I am a frontend developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.</p>
+            <p className='Text-Bodies'>I am a rookie Frontend Developer interested in making all sorts of things!</p>
         </div>
         <div id='Interests'>
             <h1 className='Text-Header'>Interests</h1>
-            <p className='Text-Bodies'>Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
+            <p className='Text-Bodies'>Animation, Coding, Music, Storytelling. I run a youtube channel and write a blog to share these things. Hope to be an Indie Game Dev someday.</p>
         </div>
     </content>)
 }
